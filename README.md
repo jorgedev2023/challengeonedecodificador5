@@ -1,2 +1,2 @@
 # challengeonedecodificador5
-Desafio Alura proposto para a criação de decodificador de texto
+Projeto pratico de exercício-aula para a criação de Decodificador de Textos, promovido pela Alura para a aprendizagem da formação inicial em Front-End sob o uso das tecnologias CSS, JS, HTML.
